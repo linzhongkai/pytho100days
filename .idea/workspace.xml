@@ -4,7 +4,12 @@
     <bookmark url="file://$PROJECT_DIR$/基础篇/函数和模块.py" line="50" mnemonic="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35b2b240-3906-47f5-9fd3-b568e93cfc58" name="Default Changelist" comment="" />
+    <list default="true" id="35b2b240-3906-47f5-9fd3-b568e93cfc58" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础篇/Object-Oriented-Programming.py" beforeDir="false" afterPath="$PROJECT_DIR$/基础篇/Object-Oriented-Programming.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/基础篇/Object-Oriented-Programming.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="608">
-              <caret line="106" column="29" lean-forward="true" selection-start-line="99" selection-start-column="4" selection-end-line="106" selection-end-column="29" />
+            <state relative-caret-position="63">
+              <caret line="105" column="13" selection-start-line="105" selection-start-column="5" selection-end-line="105" selection-end-column="13" />
               <folding>
                 <element signature="e#23#34#0" expanded="true" />
               </folding>
@@ -28,8 +33,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/readme.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="73" selection-start-line="73" selection-end-line="73" />
+            <state relative-caret-position="285">
+              <caret line="85" selection-start-line="85" selection-end-line="85" />
             </state>
           </provider>
         </entry>
@@ -43,6 +48,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -54,11 +62,12 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="952" />
     <option name="width" value="977" />
     <option name="height" value="1038" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -215,7 +224,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="762" y="0" width="781" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.18926175" />
@@ -223,7 +232,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32913166" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932885" visible="true" weight="0.36633664" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932885" visible="true" weight="0.37106016" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -283,15 +292,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        <state relative-caret-position="285">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/基础篇/Object-Oriented-Programming.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="106" column="29" lean-forward="true" selection-start-line="99" selection-start-column="4" selection-end-line="106" selection-end-column="29" />
+        <state relative-caret-position="63">
+          <caret line="105" column="13" selection-start-line="105" selection-start-column="5" selection-end-line="105" selection-end-column="13" />
           <folding>
             <element signature="e#23#34#0" expanded="true" />
           </folding>

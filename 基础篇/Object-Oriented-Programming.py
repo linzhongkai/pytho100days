@@ -95,16 +95,50 @@ class Point(object):
     def __str__(self):
         return '(%s, %s)' % (str(self.x), str(self.y))
 
+class Person():
+    #限制Person对象只能绑定_name等属性
+    __slots__ = ('_name', '_age', '_gender')
+
+
+    def __init__(self, name):
+        self._name = name
+
+    @property
+    def name(self):
+        return self.__name
+
+    @name.setter
+    def name(self, name):
+        self.__name = name
+
+
+
 def main():
 
-    p1 = Point(3, 5)
-    p2 = Point()
-    print(p1)
-    print(p2)
-    p2.move_by(-1, 2)
-    print(p2)
-    print(p1.distance_to(p2))
-    print(p2.distance_to(p1))
+    #测试__slots__()
+    # person = Person('lzk')
+    # print(person._name)
+    # person._age = 22
+    # person._gender = 'man'
+    # person._gay = True
+
+
+    #测试@property
+    # man = Person('lzk')
+    # print(man.name)
+    # man.name='xiaolin'
+    # print(man.name)
+
+
+    # p1 = Point(3, 5)
+    # p2 = Point()
+    # print(p1)
+    # print(p2)
+    # p2.move_by(-1, 2)
+    # print(p2)
+    # print(p1.distance_to(p2))
+    # print(p2.distance_to(p1))
+
 
     # clock = Clock(23, 59, 28)
     # while True:
